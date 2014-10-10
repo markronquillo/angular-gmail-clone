@@ -1,0 +1,3 @@
+- Added libraries needed using bower
+- Install coffee script and gulp; npm;
+	- install gulp-coffee

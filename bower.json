@@ -1,0 +1,20 @@
+{
+  "name": "angular-gmail-clone",
+  "version": "0.0.0",
+  "homepage": "https://github.com/markronquillo/angular-gmail-clone",
+  "authors": [
+    "Mark Joseph Ronquillo <markronquillo23@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.2.26"
+  }
+}
