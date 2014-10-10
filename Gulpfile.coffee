@@ -1,5 +1,5 @@
 gulp = require 'gulp'
-coffee = require 'coffee'
+coffee = require 'gulp-coffee'
 
 gulp.task 'js', ->
 	gulp.src './js/coffee/*.coffee'
@@ -8,3 +8,4 @@ gulp.task 'js', ->
 
 gulp.task 'watch', ->
 	gulp.watch './js/coffee/*.coffee', ['js']
+
